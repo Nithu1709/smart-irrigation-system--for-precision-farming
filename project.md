@@ -1,8 +1,8 @@
-# Smart Irrigation System with Precision Farming
+# Smart Irrigation System for Precision Farming
 
 ## Project Title
 
-**Smart Irrigation System with Precision Farming Using IoT and AI**
+**Smart Irrigation System for Precision Farming Using IoT and AI**
 
 ---
 
